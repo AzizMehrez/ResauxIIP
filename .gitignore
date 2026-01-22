@@ -1,0 +1,12 @@
+# VM disks & heavy files
+*.vmdk
+*.nvram
+*.vmxf
+*.vmsd
+*.log
+*.scoreboard
+
+# GNS3 runtime
+project-files/vmware/
+project-files/vpcs/*.log
+project-files/dynamips/*.log
